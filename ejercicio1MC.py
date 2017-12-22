@@ -7,3 +7,5 @@ def sumacuadrados(a,b):
 
 def multcuadrados(a,b):
     return (a**2)*(b**2)
+
+#Ahora vamos a añadir otra función
