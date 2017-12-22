@@ -18,3 +18,5 @@ def restacuadrados(a,b):
 def sumacubos(a,b):
     return a**3+b**3
 >>>>>>> añado sumacubo
+
+#modifico esto para el 4 del ejercicio 2
