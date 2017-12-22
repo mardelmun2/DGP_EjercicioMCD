@@ -9,12 +9,6 @@ def multcuadrados(a,b):
     return (a**2)*(b**2)
 
 #Ahora vamos a añadir otra función
-<<<<<<< HEAD
-    
-def restacuadrados(a,b):
-    return (a**2)-(b**2)
-=======
 
 def sumacubos(a,b):
     return a**3+b**3
->>>>>>> añado sumacubo
